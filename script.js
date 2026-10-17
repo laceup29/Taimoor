@@ -2,7 +2,7 @@
 
 // ==================== CONFIGURATION ====================
 const CONFIG = {
-    password: "iqra",                    // Unlock password (case-insensitive)
+    password: "2127",                    // Unlock password (case-insensitive)
     loveStartDate: "2024-01-01",         // 💕 Apna start date change karein (YYYY-MM-DD)
     birthdayDate: "",                    // e.g. "22 August" - khaali chhoda to auto text
 };
